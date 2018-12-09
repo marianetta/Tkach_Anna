@@ -10,10 +10,12 @@
 * Запись в файл
 Определяет слово "потом"(существительное в твор. падеже) как  **потом(наречие)**.
 Вместо род.падежа выводит *None*
-![alt text](https://yandex.ru/images/search?pos=0&img_url=http%3A%2F%2Fcitycelebrity.ru%2Fuserfiles%2Fmini%2520%25201%25D1%2580%25D0%25B8%25D1%2581%25D1%2583%25D0%25BD%25D0%25BE%25D0%25BA.jpg&text=%D0%B2%D0%B8%D0%BD%D0%BE%20%D0%B8%D0%B7%20%D0%BE%D0%B4%D1%83%D0%B2%D0%B0%D0%BD%D1%87%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D0%B8&rpt=simage)
+![alt text](http://illustrators.ru/uploads/illustration/image/1001658/main_вино_из_одуванчиков.jpg)
+
+
 [Читать](https://www.litmir.me/br/?b=85288&p=1)
-GitHub supports emoji!
-:+1:  :sun: :blossom: :honeybee:
+
+:+1:  :blossom: :honeybee:
 
 
 import pymorphy2
